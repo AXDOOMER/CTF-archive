@@ -1,0 +1,11 @@
+Flag du premier défi
+
+DCI{las zanahorias estan cocidas}
+
+
+Flag du second défi
+
+DCI{aa598b8fe89f5e6069f1b9019b0f869eb23e1d10}
+C'est le hash de "void linux".
+
+

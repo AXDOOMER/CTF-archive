@@ -12,4 +12,4 @@ Sur un ordi lent, ça peut prendre jusqu'à 10 secondes pour que le flag soit af
 
 Flag: flag{Daedalus+Icarus=Helios}
 
-Ce challenge a été réussi par 4 personnes.
+*Ce challenge a été réussi par 4 personnes.*

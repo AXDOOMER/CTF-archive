@@ -16,7 +16,7 @@ Pour le premier flag, qui est le plus facile à trouver, il faut examiner les re
 
 DCI{aa598b8fe89f5e6069f1b9019b0f869eb23e1d10}
 
-Il a été réussi par une personne.
+*Il a été réussi par une personne.*
 
 ### Partie 2
 
@@ -28,4 +28,4 @@ Le message commence au paquet No. 6777 ("L"), 6803 ("A"), 6807 ("S"), 6875 (" ")
 
 DCI{las zanahorias estan cocidas}
 
-Aucune personne n'a réussi ce challenge.
+*Aucune personne n'a réussi ce challenge.*

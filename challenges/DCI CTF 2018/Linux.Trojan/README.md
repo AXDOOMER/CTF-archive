@@ -18,7 +18,7 @@ Il y a une fonction qui sert à l'encryption. L'algorithme utilisé est TEA. Ave
 
 Flag: DCI{Linux.Trojan.Not.A.Keylogger}
 
-Aucune personne n'a réussi ce challenge.
+*Aucune personne n'a réussi ce challenge.*
 
 # Solution 2
 

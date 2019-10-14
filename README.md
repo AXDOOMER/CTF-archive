@@ -19,3 +19,4 @@ Archive of Capture the Flag challenges
 * [Burp](https://portswigger.net/burp/communitydownload)
 * [ysoserial](https://github.com/frohoff/ysoserial)
 * [wfuzz](https://github.com/xmendez/wfuzz)
+* [sqlmap](https://github.com/sqlmapproject/sqlmap)

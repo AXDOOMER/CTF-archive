@@ -12,8 +12,9 @@ Archive of Capture the Flag challenges
 
 * [Whitespace IDE](https://vii5ard.github.io/whitespace/)
 * [transfer.sh](https://transfer.sh/)
-* [Request Bin](https://requestbin.fullcontact.com/)
 * [Webhook.site](https://webhook.site/)
+* [Hookbin](https://hookbin.com/)
+* [PostBin](https://postb.in/)
 
 ## Local tools
 

@@ -8,7 +8,7 @@ from pwn import *
 
 NUMBER_OF_TESTS = 1000000
 
-r = remote("localhost", 4002)
+r = remote("127.0.0.1", 3000)
 
 while True:
 	problem = r.recv(1024).decode().strip()

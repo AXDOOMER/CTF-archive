@@ -32,7 +32,7 @@ def recvall(sock):
 			break
 	return data
 
-r = remote("challenges.unitedctf.ca", 4003)
+r = remote("127.0.0.1", 3000)
 
 mybase64 = recvall(r).decode()
 
